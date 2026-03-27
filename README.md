@@ -35,7 +35,7 @@ Motivación: cada problema resuelto suma.
 
 📊 Mi progreso en HackerRank
 
-🔗 Perfil: (aquí colocas tu perfil)
+🔗 Perfil: 
 
 📈 Nivel actual: en progreso 🚧
 
