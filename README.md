@@ -1,4 +1,7 @@
 🚀 Soluciones de HackerRank
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ¡Hola! 👋 Bienvenido a mi repositorio de práctica en HackerRank, donde voy subiendo mis soluciones a distintos desafíos de programación, algoritmos y estructuras de datos. Aquí encontrarás código, ideas y parte de mi proceso mientras sigo mejorando problema a problema.
 
